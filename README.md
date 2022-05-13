@@ -1,6 +1,6 @@
 # Albert
 
-This repository is  an Albert with a [PyTorch](https://pytorch.org/) project. 
+This repository is  an Albert with a [PyTorch](https://pytorch.org/) project.
 
 I reference code from https://github.com/haotongye/pytorch-project-example.
 
@@ -146,11 +146,6 @@ Output:
 ```
 
 (Numbers may differ slightly on your machine.)
-
-## Limitations
-
-Framework in this repo works really well for supervised NLP tasks. It may need some
-extensions in order to incorporate more complicated projects like RL or GAN.
 
 ## Licence
 
